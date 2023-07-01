@@ -13,3 +13,6 @@ xyz
 ```
 git push
 ```
+**bold**
+_Italic_
+> a simple quote
