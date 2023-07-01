@@ -5,4 +5,6 @@ xyz
 # This is a bolded statement 
 ## This is a bolded statement
 ### This is a bolded statement
-
+* point-1
+* point-2
+* point-3
