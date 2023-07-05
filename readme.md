@@ -18,5 +18,5 @@ _Italic_
 > a simple quote
 ***
 ---
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+#Heading 1 link [Heading link](https://github.com/pandao/editor.md ".md editor link")
 
